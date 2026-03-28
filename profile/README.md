@@ -1,13 +1,16 @@
-## Hi there 👋
-
-You'll find open source work from [one-kash](https://github.com/one-kash/) here.
+Open-source developer tools, AI agent skills, and privacy-first apps.
 
 **Developer Tools**
-- [sap-odata-explorer](https://github.com/openkash/sap-odata-explorer) · Query SAP OData endpoints in plain English
-- [ai-agent-spec-skill](https://github.com/openkash/ai-agent-spec-skill) · Spec skill for AI coding agents
-- [ai-agent-tdd-skill](https://github.com/openkash/ai-agent-tdd-skill) · TDD skill for Claude Code
-- [sap-atc-checker](https://github.com/openkash/sap-atc-checker) · Run SAP ATC checks via ADT API
-- [iCloud Calendar MCP](https://github.com/icloud-calendar-mcp/icloud-calendar-mcp) · MCP server for iCloud Calendar
-- [iCalDAV](https://github.com/iCalDAV/iCalDAV) · Kotlin CalDAV client with offline sync
+- [iCloud Calendar MCP](https://github.com/icloud-calendar-mcp/icloud-calendar-mcp) · iCloud Calendar MCP server. On MCP Registry, npm & PyPI.
+- [iCalDAV](https://github.com/iCalDAV/iCalDAV) · Kotlin CalDAV client with offline sync and conflict resolution.
+- [ai-agent-dev-workflow](https://github.com/openkash/ai-agent-dev-workflow) · Complete AI development workflow for Claude Code.
+- [ai-agent-spec-skill](https://github.com/openkash/ai-agent-spec-skill) · Feature specification skill for coding agents.
+- [ai-agent-tdd-skill](https://github.com/openkash/ai-agent-tdd-skill) · Structured TDD process for Claude Code.
+- [sap-odata-explorer](https://github.com/openkash/sap-odata-explorer) · Query SAP OData endpoints in plain English using AI.
+- [sap-atc-checker](https://github.com/openkash/sap-atc-checker) · Run SAP ATC checks with any check variant via ADT API.
 
-[onekash.org](https://onekash.org) · [Projects](https://openkash.github.io)
+**Apps**
+- [KashCal](https://github.com/KashCal/KashCal) · Offline-first Android calendar with CalDAV sync. On F-Droid.
+- [KashCake](https://github.com/KashCal/KashCake) · Birthday reminders from your contacts. Stays on your device.
+
+[All Projects](https://openkash.github.io)
